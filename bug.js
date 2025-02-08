@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't being written to Firestore despite appearing to be successful in the client-side code. The problem stemmed from an incorrect understanding of how asynchronous operations work in conjunction with Firebase's data persistence.
